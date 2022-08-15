@@ -1,0 +1,10 @@
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.deps.json
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.dll
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.pdb
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.csproj.AssemblyReference.cache
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.AssemblyInfoInputs.cache
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.AssemblyInfo.cs
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.dll
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Infra.Data.pdb

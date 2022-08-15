@@ -1,0 +1,10 @@
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\bin\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.deps.json
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\bin\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.dll
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\bin\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.pdb
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.csproj.AssemblyReference.cache
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.AssemblyInfoInputs.cache
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.AssemblyInfo.cs
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.csproj.CoreCompileInputs.cache
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.dll
+D:\Projetos Relinton\AspNetCore\ProjetoPortfolioCore\ProjetoPortfolioCore.Service\obj\Debug\netcoreapp3.1\ProjetoPortfolioCore.Service.pdb
